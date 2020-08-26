@@ -1,0 +1,37 @@
+.root {
+    -fx-font-size: 18px;
+    -fx-text-fill: #387bb7;
+}
+
+#root {
+    -fx-pref-width: 256px;
+    -fx-pref-height: 336px;
+    -fx-pos: center;
+    -fx-alignment: center;
+    -fx-spacing: 16px;
+    -fx-background-color: #6dc0f3;
+}
+
+#instruction {
+    -fx-pref-width: 256px;
+    -fx-pref-height: 48px;
+    -fx-alignment: center;
+}
+
+.button {
+    -fx-pref-width: 128px;
+    -fx-pref-height: 48px;
+    -fx-background-color: #a0d5f8;
+    -fx-background-radius: 10px;
+}
+
+#copy {
+    -fx-font-size: 14px;
+}
+
+.text-field {
+    -fx-max-width: 192px;
+    -fx-pref-height: 48px;
+    -fx-alignment: center;
+    -fx-background-color: #a0d5f8;
+}
